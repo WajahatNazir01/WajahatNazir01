@@ -1,86 +1,130 @@
-<h1 align="center">🚀 Hi, I'm Wajahat Nazir</h1>
-<h3 align="center">Backend-Focused Full Stack Developer | Building Scalable AI-Powered Solutions</h3>
+ <h1 align="center">🚀 Hi, I'm Wajahat Nazir</h1>
+<h3 align="center">Backend-Focused Software Engineer | Building Scalable AI-Powered Solutions</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wajahatnazir01&label=Profile%20Views&color=0e75b6&style=flat" alt="wajahatnazir01" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI-blue" />
-  <img src="https://img.shields.io/badge/Automation-n8n-orange" />
-  <img src="https://img.shields.io/badge/ML-Learning-yellow" />
+  <a href="https://github.com/wajahatnazir01">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Wajahat%20Nazir&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20AI%20%26%20Backend%20Systems&descSize=24&descAlignY=64" width="100%" alt="Wajahat Nazir - Software Engineer" />
+  </a>
 </p>
 
-<img align="right" width="400" alt="coding" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5E4E4&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+Building+scalable+backend+systems.;%3E+Exploring+AI%2C+ML+%26+intelligent+automation.;%3E+Turning+ideas+into+real-world+software." alt="Introduction" />
+</p>
 
-## 💡 About Me
+<p align="center">
+  <a href="https://github.com/wajahatnazir01">
+    <img src="https://img.shields.io/badge/GitHub-A21517?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/wajahat-nazir-868bbb314/">
+    <img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:wajahatnazirwaraich01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-A21517?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-- 🔭 **Currently Building:** Scalable, AI-powered web & mobile applications
-- 📚 **Learning Deeply:** Machine Learning, Advanced System Design, and Agentic Automation (n8n)
-- 🧠 **Core Focus:** Backend Architecture (Databases, ORMs, APIs), AI Integration, End-to-End Automation
-- 🤝 **Open to Collaborate:** AI-integrated platforms, automation workflows, and high-performance backend systems
-- 💬 **Ask Me About:** Backend design patterns, database optimization, ORMs (Prisma/TypeORM), n8n automation, and AI basics
-- 📧 **Reach Me:** [wajahatnazirwaraich01@gmail.com](mailto:wajahatnazirwaraich01@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20ML%20Engineering-ECBDDD?style=for-the-badge&labelColor=0A0A0A" alt="AI and ML" />
+  <img src="https://img.shields.io/badge/Backend%20Architecture-ECBDDD?style=for-the-badge&labelColor=0A0A0A" alt="Backend Engineering" />
+  <img src="https://img.shields.io/badge/Software%20Development-ECBDDD?style=for-the-badge&labelColor=0A0A0A" alt="Software Development" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Software Engineering student at **COMSATS University Islamabad, Lahore Campus**, passionate about building practical software solutions and exploring emerging technologies.
+
+My primary interests revolve around backend engineering, AI/ML, and intelligent software systems. I enjoy understanding how things work under the hood, designing scalable architectures, and transforming ideas into reliable applications.
+
+- 🎓 BS Software Engineering student.
+- 💻 Backend-focused developer with full-stack experience.
+- 🤖 Exploring Machine Learning, Deep Learning, LLMs, RAG, and AI Agents.
+- ⚙️ Interested in scalable APIs, microservices, databases, and automation.
+- 🚀 Focused on building practical, production-oriented software.
+
+---
+
+## 🧑‍💼 Professional Experience
+
+| Organization | Role | Experience |
+|:---|:---|:---|
+| **10Pearls** | Software Engineering Intern | Worked on full-stack development using the MERN stack, collaborative Git workflows, testing, and software quality practices. |
+| **Appaura.net** | Backend Developer Intern | Contributed to an international pharmacy management SaaS platform using Java, Spring Boot 3, WebFlux, microservices, and logging/monitoring practices. |
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 🚀 Backend & Core
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+### Programming Languages & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,express,spring,fastapi&theme=dark" alt="Programming and Backend Skills" />
 </p>
 
-### 🗄️ Databases & ORMs
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+### AI, Machine Learning & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" alt="AI and Machine Learning Skills" />
 </p>
 
-### ⚙️ Automation & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/n8n-6A1B9A?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+### Databases, DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,git,github,linux&theme=dark" alt="Databases and DevOps Skills" />
 </p>
 
-### 🎨 Design & Prototyping
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+### Frontend & Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,figma,vscode&theme=dark" alt="Frontend and Development Tools" />
 </p>
+
+---
+
+## 🧠 Areas of Interest
+
+| Area | Focus |
+|:---|:---|
+| **Backend Engineering** | REST APIs, Spring Boot, Node.js, microservices, system design |
+| **AI & Machine Learning** | Supervised learning, deep learning, model development, computer vision |
+| **LLMs & Generative AI** | RAG systems, embeddings, vector databases, AI agents |
+| **Data & Databases** | PostgreSQL, MySQL, MongoDB, Redis, data processing |
+| **Software Engineering** | Clean architecture, testing, Git workflows, scalable applications |
+
+---
+
+## 🚀 What I'm Working Towards
+
+- Building production-ready AI-powered applications.
+- Strengthening backend architecture and system design skills.
+- Exploring modern ML research and deep learning architectures.
+- Developing intelligent automation and LLM-based systems.
+- Continuously learning and contributing to meaningful software projects.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wajahatnazir01&show_icons=true&locale=en&layout=compact&theme=radical" alt="wajahatnazir01" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wajahatnazir01&show_icons=true&locale=en&theme=radical&hide_border=true" height="180" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wajahatnazir01&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wajahatnazir01&show_icons=true&locale=en&theme=radical" alt="wajahatnazir01" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wajahatnazir01&theme=radical" alt="wajahatnazir01" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajahatnazir01&theme=radical&hide_border=true" width="70%" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
-## 🌐 Let's Connect
+## 📈 Contribution Activity
 
-<p align="left">
-  <a href="https://fb.com/wajahat nazir" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/wajahat nazir waraich" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://medium.com/@wajahat nazir" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wajahatnazir01&bg_color=0A0A0A&color=E5E4E4&line=A21517&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" />
 </p>
 
 ---
 
 <p align="center">
-  <i>"Turning designs into scalable, intelligent systems — one commit at a time."</i>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A21517,100:0A0A0A&height=100&section=footer" width="100%" alt="Footer" />
+</p>
+
+<p align="center">
+  <b>Building. Learning. Improving. 🚀</b>
 </p>
